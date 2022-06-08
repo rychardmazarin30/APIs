@@ -24,6 +24,7 @@ moedas = [
     'SAR','SEK','SGD','THB','TRY','TWD','UYU','XRP','ZAR'
 ]
 
+
 #Controle dos eventos que acontecem e utilização do arquivo de requisição
 while True:
     event, values = j.read()

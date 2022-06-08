@@ -4,7 +4,7 @@
 
 ![Interface Grafica Cotação de Moeda](https://user-images.githubusercontent.com/98194579/172523185-0092786a-d60e-45b4-8a98-c1054388c632.png)
 
-<p>Essa é a aplicação, no campo "Moeda" você devera inserir o código da moeda que deseja saber o preco em Real, segue abaixo os códigos de todas as moedas:</p>
+<p>Essa é a aplicação! no campo "Moeda" você devera inserir o código da moeda que deseja saber o preco em Real, Segue abaixo os códigos de todas as moedas disponiveis:</p>
 
 <ul>
   <li> <b>AED</b> - Dirham dos Emirados</li>
@@ -50,14 +50,13 @@
 
 ![Funcionalidades](https://user-images.githubusercontent.com/98194579/172526239-5047161e-fa06-4364-805b-4c653c8dd186.png)
 
-<p>Depois de inserido o código, basta clicar no botão "Cotação" que será retornado o valor em real da respectiva moeda</p>
+<p>Depois de inserido o código, basta clicar no botão "Cotação" que será retornado o valor em real da respectiva moeda.</p>
 
-<p>PS: Caso seja inserido algum código invalido ou que não exista a aplicação retornará "Código de Moeda Inválido"</p>
+<p>PS: Caso seja inserido algum código invalido ou que não exista a aplicação retornará "Código de Moeda Inválido".</p>
 
 ![Codigo Inválido](https://user-images.githubusercontent.com/98194579/172526695-74b44574-fbd0-4001-b4a3-7a0bc57e5945.png)
 
 <p>Espero que gostem, BOAS CONSULTAS!</p>
-<h4>Desenvolvido por Rychard Mazarin</h4>
 
 <h1>Identificador de CEP</h1>
 

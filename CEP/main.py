@@ -1,8 +1,8 @@
-# Lib utilizada e arquivo da requisição da API
+#Lib utilizada e arquivo da requisição da API
 import PySimpleGUI as sg
 from cep import search_cep
 
-# Construindo a Interface Gráfica, nesta parte seja criativo!
+#Construindo a Interface Gráfica, nesta parte seja criativo!
 layout = [
     [sg.Text("Insira o seu CEP abaixo", font='arial 15 bold',background_color='#781220')],
     [sg.Text('CEP:',font='arial 15 bold',background_color='#781220'), sg.InputText(key='numero_cep',font='arial 15 bold',)],
@@ -10,10 +10,10 @@ layout = [
     [sg.Button('Buscar',font='arial 15 bold'), sg.Button('Cancelar',font='arial 15 bold', ), sg.Text('Desenvolvido por Rychard Mazarin', font='arial 12 bold', background_color='#781220')]
 ]
 
-# Janela da Aplicação 
+#Janela da Aplicação 
 j = sg.Window("CEP", layout, background_color='#781220')
 
-# Controle dos eventos que acontecem e utilização do arquivo de requisição
+#Controle dos eventos que acontecem e utilização do arquivo de requisição
 while True:
     event, values = j.read()
     if event == sg.WIN_CLOSED or event == "Cancelar":

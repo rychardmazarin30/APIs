@@ -1,7 +1,7 @@
-# Lib utilizada para a requisição
+#Lib utilizada para a requisição
 import requests
 
-# Função que utiliza API
+#Função que utiliza API
 def search_cep(num_cep):
     try:
         requisicao = requests.get(f'https://cep.awesomeapi.com.br/json/{num_cep}')

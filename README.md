@@ -2,7 +2,7 @@
 
 <h1>Cotação de Moeda</h1>
 
-![Interface Grafica Cotação de Moeda](https://user-images.githubusercontent.com/98194579/172523185-0092786a-d60e-45b4-8a98-c1054388c632.png)
+![Interface Grafica Cotação Moeda](https://user-images.githubusercontent.com/98194579/172527448-c754bb9a-da18-45cf-a706-e9e6ddba3b50.png)
 
 <p>Essa é a aplicação! no campo "Moeda" você devera inserir o código da moeda que deseja saber o preco em Real, Segue abaixo os códigos de todas as moedas disponiveis:</p>
 
@@ -54,7 +54,7 @@
 
 <p>PS: Caso seja inserido algum código invalido ou que não exista a aplicação retornará "Código de Moeda Inválido".</p>
 
-![Codigo Inválido](https://user-images.githubusercontent.com/98194579/172526695-74b44574-fbd0-4001-b4a3-7a0bc57e5945.png)
+![Código Inválido](https://user-images.githubusercontent.com/98194579/172527515-e37d667c-f648-4734-911b-4c5f6434005f.png)
 
 <p>Espero que gostem, BOAS CONSULTAS!</p>
 

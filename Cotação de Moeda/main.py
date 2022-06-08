@@ -1,11 +1,11 @@
-# Lib Utlizada e arquivo de requisição da API
+#Lib Utlizada e arquivo de requisição da API
 import PySimpleGUI as sg
 from moeda import pegar_cotacao
 
-# Tema da Interface
+#Tema da Interface
 sg.theme('DarkAmber')
 
-# Construindo a Interface
+#Construindo a Interface
 layout = [
     [sg.Text("Cotação de Moeda", font="arial 15 bold", background_color='black')],
     [sg.Text("Moeda:", font="arial 15 bold", background_color='black'), sg.InputText(key="nome_cotacao", font="arial 15 bold", background_color='black')],
@@ -13,10 +13,10 @@ layout = [
     [sg.Button("Cotação", font="arial 15 bold"), sg.Button("Sair", font="arial 15 bold"), sg.Text("Desenvolvido por Rychard Mazarin", font="arial 12 bold", background_color='black',text_color='white')]
 ]
 
-# Janela da aplicação
+#Janela da aplicação
 j = sg.Window("Cotação de Moeda", layout, background_color='black')
 
-# Lista de todos os códigos das moedas
+#Lista de todos os códigos das moedas
 moedas = [
     'USD','EUR','ETH','GBP','BTC','CAD','AED','ARS','AUD',
     'BOB','CHF','CLP','CNY','COP','DKK','DOGE','HKD','ILS',
@@ -24,7 +24,7 @@ moedas = [
     'SAR','SEK','SGD','THB','TRY','TWD','UYU','XRP','ZAR'
 ]
 
-# Controle dos eventos que acontecem e utilização do arquivo de requisição
+#Controle dos eventos que acontecem e utilização do arquivo de requisição
 while True:
     event, values = j.read()
     if event == sg.WIN_CLOSED or event == "Sair":

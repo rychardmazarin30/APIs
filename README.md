@@ -60,4 +60,21 @@
 
 <h1>Identificador de CEP</h1>
 
+![Inteface Grafica Descobridor de CEP](https://user-images.githubusercontent.com/98194579/172978562-eee22545-e880-46c4-8975-9d084d4c3f95.png)
+
+<p>Essa é a aplicação! no campo "CEP" você devera inserir o código postal do endereço que deseja saber da moeda que deseja saber, você pode inserirvtanto no modelo normal: "00000000", tanto com digito: "00000-000".</p>
+
+<h2>Funcionalidades</h2>
+
+![Funcionalidades](https://user-images.githubusercontent.com/98194579/172979055-7dd9095b-d496-4143-a6c3-bdaa44911c7c.png)
+
+<p>Depois de inserido o seu código postal, basta clicar no botão "Buscar" que será retornado o nome do endereço correspondente.</p>
+
+<p>PS: Caso seja inserido algum código invalido ou que não exista a aplicação retornará "CEP Inválido".</p>
+
+![CEP inválido](https://user-images.githubusercontent.com/98194579/172979499-977d357a-2e6b-4dbb-b136-9f7643322c2b.png)
+
+<h4>Desenvolvido por Rychard Mazarin</h4>
+
+
 

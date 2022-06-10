@@ -56,13 +56,13 @@
 
 ![Código Inválido](https://user-images.githubusercontent.com/98194579/172527515-e37d667c-f648-4734-911b-4c5f6434005f.png)
 
-<p>Espero que gostem, BOAS CONSULTAS!</p>
+<p>Saiba o valor de qualquer moeda com apenas um click, BOAS CONSULTAS!</p>
 
 <h1>Identificador de CEP</h1>
 
 ![Inteface Grafica Descobridor de CEP](https://user-images.githubusercontent.com/98194579/172978562-eee22545-e880-46c4-8975-9d084d4c3f95.png)
 
-<p>Essa é a aplicação! no campo "CEP" você devera inserir o código postal do endereço que deseja saber da moeda que deseja saber, você pode inserirvtanto no modelo normal: "00000000", tanto com digito: "00000-000".</p>
+<p>Essa é a aplicação! no campo "CEP" você devera inserir o código postal do endereço que deseja saber, você pode inserir tanto no modelo normal: "00000000", tanto com digito: "00000-000".</p>
 
 <h2>Funcionalidades</h2>
 
@@ -74,7 +74,9 @@
 
 ![CEP inválido](https://user-images.githubusercontent.com/98194579/172979499-977d357a-2e6b-4dbb-b136-9f7643322c2b.png)
 
-<h4>Desenvolvido por Rychard Mazarin</h4>
+<p>Se você tem o CEP, agora você sabe o endereço, espero que gostem!</p>
+
+<h3>Desenvolvido por Rychard Mazarin</h3>
 
 
 
